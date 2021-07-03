@@ -13,10 +13,15 @@ An assembly (or assembler) language, often abbreviated asm, is a low-level progr
 - You must rewrite the following functions in asm:
 
   ft_strlen
+  
   ft_strcpy
+  
   ft_strcmp
+  
   ft_write
+  
   ft_read
+  
   ft_strdup (you can call to malloc)
  
 - You must check for errors during syscalls and properly set them when needed
@@ -30,8 +35,13 @@ make test
 
 ## Additional Information
   man 3 strlen
+  
   man 3 strcpy
+  
   man 3 strcmp
+  
   man 2 write
+  
   man 2 read
+  
   man 3 strdup
